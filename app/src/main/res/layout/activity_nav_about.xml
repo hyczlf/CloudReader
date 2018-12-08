@@ -7,7 +7,7 @@
         android:layout_height="match_parent"
         android:orientation="horizontal"
         android:paddingBottom="@dimen/activity_vertical_margin"
-        tools:context="com.example.jingbin.cloudreader.ui.menu.NavAboutActivity">
+        tools:context="com.example.hyczlf.cloudreader.ui.menu.NavAboutActivity">
 
 
         <LinearLayout

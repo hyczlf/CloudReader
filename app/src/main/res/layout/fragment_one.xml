@@ -5,11 +5,11 @@
 
         <variable
             name="recyclerAdapter"
-            type="com.example.jingbin.cloudreader.adapter.OneAdapter" />
+            type="com.example.hyczlf.cloudreader.adapter.OneAdapter" />
 
         <variable
             name="viewmodel"
-            type="com.example.jingbin.cloudreader.viewmodel.movie.OneViewModel" />
+            type="com.example.hyczlf.cloudreader.viewmodel.movie.OneViewModel" />
     </data>
 
     <!--为了出现下拉阴影效果（加了上面的控件后就没有了）-->

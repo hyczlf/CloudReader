@@ -4,13 +4,13 @@
     <data>
 
         <!--调用静态方法-->
-        <import type="com.example.jingbin.cloudreader.utils.StringFormatUtil" />
+        <import type="com.example.hyczlf.cloudreader.utils.StringFormatUtil" />
 
         <variable
             name="subjectsBean"
-            type="com.example.jingbin.cloudreader.bean.moviechild.SubjectsBean" />
+            type="com.example.hyczlf.cloudreader.bean.moviechild.SubjectsBean" />
 
-        <import type="com.example.jingbin.cloudreader.utils.CommonUtils" />
+        <import type="com.example.hyczlf.cloudreader.utils.CommonUtils" />
 
     </data>
 

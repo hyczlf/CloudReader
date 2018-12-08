@@ -5,12 +5,12 @@
     <data>
 
         <!--调用静态方法-->
-        <import type="com.example.jingbin.cloudreader.utils.StringFormatUtil" />
+        <import type="com.example.hyczlf.cloudreader.utils.StringFormatUtil" />
 
         <!--引用bean-->
         <variable
             name="bean"
-            type="com.example.jingbin.cloudreader.bean.MovieDetailBean" />
+            type="com.example.hyczlf.cloudreader.bean.MovieDetailBean" />
 
     </data>
 
@@ -19,7 +19,7 @@
         android:id="@+id/activity_one_movie_detail"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context="com.example.jingbin.cloudreader.ui.movie.OneMovieDetailActivity">
+        tools:context="com.example.hyczlf.cloudreader.ui.movie.OneMovieDetailActivity">
 
         <LinearLayout
             android:layout_width="match_parent"

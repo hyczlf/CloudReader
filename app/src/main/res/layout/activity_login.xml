@@ -7,7 +7,7 @@
 
         <variable
             name="viewModel"
-            type="com.example.jingbin.cloudreader.viewmodel.menu.LoginViewModel" />
+            type="com.example.hyczlf.cloudreader.viewmodel.menu.LoginViewModel" />
     </data>
 
     <ScrollView

@@ -5,7 +5,7 @@
 
         <variable
             name="listener"
-            type="com.example.jingbin.cloudreader.MainActivity" />
+            type="com.example.hyczlf.cloudreader.MainActivity" />
     </data>
 
     <android.support.v4.widget.NestedScrollView

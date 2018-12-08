@@ -6,11 +6,11 @@
 
         <variable
             name="adapter"
-            type="com.example.jingbin.cloudreader.adapter.WanAndroidAdapter" />
+            type="com.example.hyczlf.cloudreader.adapter.WanAndroidAdapter" />
 
         <variable
             name="bean"
-            type="com.example.jingbin.cloudreader.bean.wanandroid.ArticlesBean" />
+            type="com.example.hyczlf.cloudreader.bean.wanandroid.ArticlesBean" />
 
         <import type="android.text.Html" />
 
@@ -116,7 +116,7 @@
                 android:text="@{@string/string_dian + bean.author}"
                 android:textColor="@color/colorSubtitle"
                 android:textSize="11sp"
-                tools:text="jingbin" />
+                tools:text="hyczlf" />
 
             <CheckBox
                 android:id="@+id/vb_collect"

@@ -5,9 +5,9 @@
 
         <variable
             name="view"
-            type="com.example.jingbin.cloudreader.ui.movie.OneFragment" />
+            type="com.example.hyczlf.cloudreader.ui.movie.OneFragment" />
 
-        <import type="com.example.jingbin.cloudreader.app.ConstantsImageUrl" />
+        <import type="com.example.hyczlf.cloudreader.app.ConstantsImageUrl" />
 
     </data>
 

@@ -4,7 +4,7 @@
 
         <variable
             name="gankBean"
-            type="com.example.jingbin.cloudreader.bean.GankIoDataBean" />
+            type="com.example.hyczlf.cloudreader.bean.GankIoDataBean" />
     </data>
 
     <RelativeLayout

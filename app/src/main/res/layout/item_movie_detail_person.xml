@@ -6,7 +6,7 @@
 
         <variable
             name="personBean"
-            type="com.example.jingbin.cloudreader.bean.moviechild.PersonBean" />
+            type="com.example.hyczlf.cloudreader.bean.moviechild.PersonBean" />
     </data>
 
     <!--android:background="@drawable/ripple_one_item_bg"-->

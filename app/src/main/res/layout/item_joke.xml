@@ -15,7 +15,7 @@
 
         <variable
             name="bean"
-            type="com.example.jingbin.cloudreader.bean.wanandroid.DuanZiBean" />
+            type="com.example.hyczlf.cloudreader.bean.wanandroid.DuanZiBean" />
 
     </data>
 

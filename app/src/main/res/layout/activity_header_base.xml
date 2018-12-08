@@ -6,7 +6,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <com.example.jingbin.cloudreader.view.MyNestedScrollView
+        <com.example.hyczlf.cloudreader.view.MyNestedScrollView
             android:id="@+id/mns_base"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
@@ -48,7 +48,7 @@
                 </RelativeLayout>
 
             </LinearLayout>
-        </com.example.jingbin.cloudreader.view.MyNestedScrollView>
+        </com.example.hyczlf.cloudreader.view.MyNestedScrollView>
 
         <!--标题-->
         <RelativeLayout

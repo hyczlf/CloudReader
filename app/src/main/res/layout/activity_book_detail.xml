@@ -5,7 +5,7 @@
 
         <variable
             name="bookDetailBean"
-            type="com.example.jingbin.cloudreader.bean.book.BookDetailBean" />
+            type="com.example.hyczlf.cloudreader.bean.book.BookDetailBean" />
 
     </data>
 
@@ -14,7 +14,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        tools:context="com.example.jingbin.cloudreader.ui.wan.child.BookDetailActivity">
+        tools:context="com.example.hyczlf.cloudreader.ui.wan.child.BookDetailActivity">
 
 
         <LinearLayout

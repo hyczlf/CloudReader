@@ -7,7 +7,7 @@
         android:layout_height="match_parent"
         android:gravity="center_horizontal"
         android:orientation="vertical"
-        tools:context="com.example.jingbin.cloudreader.ui.menu.NavDownloadActivity">
+        tools:context="com.example.hyczlf.cloudreader.ui.menu.NavDownloadActivity">
 
         <TextView
             android:layout_width="match_parent"

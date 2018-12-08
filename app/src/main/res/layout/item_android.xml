@@ -5,15 +5,15 @@
 
         <import type="android.text.TextUtils" />
 
-        <import type="com.example.jingbin.cloudreader.utils.TimeUtil" />
+        <import type="com.example.hyczlf.cloudreader.utils.TimeUtil" />
 
         <variable
             name="resultsBean"
-            type="com.example.jingbin.cloudreader.bean.GankIoDataBean.ResultBean" />
+            type="com.example.hyczlf.cloudreader.bean.GankIoDataBean.ResultBean" />
 
         <variable
             name="command"
-            type="com.example.jingbin.cloudreader.adapter.GankAndroidAdapter" />
+            type="com.example.hyczlf.cloudreader.adapter.GankAndroidAdapter" />
 
     </data>
 

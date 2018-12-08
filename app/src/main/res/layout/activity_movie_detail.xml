@@ -3,16 +3,16 @@
     <data>
 
         <!--调用静态方法-->
-        <import type="com.example.jingbin.cloudreader.utils.StringFormatUtil" />
+        <import type="com.example.hyczlf.cloudreader.utils.StringFormatUtil" />
         <!--引用bean-->
         <variable
             name="subjectsBean"
-            type="com.example.jingbin.cloudreader.bean.moviechild.SubjectsBean" />
+            type="com.example.hyczlf.cloudreader.bean.moviechild.SubjectsBean" />
 
         <!--引用bean-->
         <variable
             name="movieDetailBean"
-            type="com.example.jingbin.cloudreader.bean.MovieDetailBean" />
+            type="com.example.hyczlf.cloudreader.bean.MovieDetailBean" />
 
     </data>
 
@@ -20,7 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <com.example.jingbin.cloudreader.view.MyNestedScrollView
+        <com.example.hyczlf.cloudreader.view.MyNestedScrollView
             android:id="@+id/nsv_scrollview"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -149,7 +149,7 @@
 
             </LinearLayout>
 
-        </com.example.jingbin.cloudreader.view.MyNestedScrollView>
+        </com.example.hyczlf.cloudreader.view.MyNestedScrollView>
 
 
         <RelativeLayout xmlns:app="http://schemas.android.com/apk/res-auto"

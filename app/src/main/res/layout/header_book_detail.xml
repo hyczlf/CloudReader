@@ -8,16 +8,16 @@
         <!--调用静态方法-->
         <import type="java.lang.String" />
 
-        <import type="com.example.jingbin.cloudreader.utils.StringFormatUtil" />
+        <import type="com.example.hyczlf.cloudreader.utils.StringFormatUtil" />
         <!--引用bean-->
         <variable
             name="booksBean"
-            type="com.example.jingbin.cloudreader.bean.book.BooksBean" />
+            type="com.example.hyczlf.cloudreader.bean.book.BooksBean" />
 
         <!--引用bean-->
         <!--<variable-->
         <!--name="bookDetailBean"-->
-        <!--type="com.example.jingbin.cloudreader.bean.book.BookDetailBean" />-->
+        <!--type="com.example.hyczlf.cloudreader.bean.book.BookDetailBean" />-->
     </data>
 
     <RelativeLayout

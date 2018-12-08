@@ -6,11 +6,11 @@
 
         <variable
             name="adapter"
-            type="com.example.jingbin.cloudreader.adapter.CollectUrlAdapter" />
+            type="com.example.hyczlf.cloudreader.adapter.CollectUrlAdapter" />
 
         <variable
             name="bean"
-            type="com.example.jingbin.cloudreader.bean.CollectUrlBean.DataBean" />
+            type="com.example.hyczlf.cloudreader.bean.CollectUrlBean.DataBean" />
 
         <import type="android.text.Html" />
 
