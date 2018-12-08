@@ -30,19 +30,19 @@ android {
     // 注释下面代码(签名配置)
     signingConfigs {
         if (propertyHaveSigningConfigs) {
-            debug {
-                storeFile file(pStoreFile)
-                storePassword pStorePassword
-                keyAlias pKeyAlias
-                keyPassword pKeyPassword
-            }
-
-            release {
-                storeFile file(pStoreFile)
-                storePassword pStorePassword
-                keyAlias pKeyAlias
-                keyPassword pKeyPassword
-            }
+//            debug {
+//                storeFile file(pStoreFile)
+//                storePassword pStorePassword
+//                keyAlias pKeyAlias
+//                keyPassword pKeyPassword
+//            }
+//
+//            release {
+//                storeFile file(pStoreFile)
+//                storePassword pStorePassword
+//                keyAlias pKeyAlias
+//                keyPassword pKeyPassword
+//            }
         }
     }
 
