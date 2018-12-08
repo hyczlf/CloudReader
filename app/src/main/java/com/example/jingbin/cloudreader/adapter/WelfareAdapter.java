@@ -11,7 +11,7 @@ import com.example.jingbin.cloudreader.databinding.ItemWelfareBinding;
 import com.example.jingbin.cloudreader.utils.DensityUtil;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @date 2016/12/1
  */
 public class WelfareAdapter extends BaseRecyclerViewAdapter<GankIoDataBean.ResultBean> {

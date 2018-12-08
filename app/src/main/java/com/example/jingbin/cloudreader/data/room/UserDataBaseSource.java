@@ -12,7 +12,7 @@ import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/4/19
  * @Description
  */

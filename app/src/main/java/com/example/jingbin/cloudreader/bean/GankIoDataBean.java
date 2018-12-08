@@ -6,7 +6,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * Created by jingbin on 2016/11/24.
+ * Created by hyczlf on 2016/11/24.
  */
 
 public class GankIoDataBean implements Serializable {

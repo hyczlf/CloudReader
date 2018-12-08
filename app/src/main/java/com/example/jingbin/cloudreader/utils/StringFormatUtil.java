@@ -5,7 +5,7 @@ import com.example.jingbin.cloudreader.bean.moviechild.PersonBean;
 import java.util.List;
 
 /**
- * Created by jingbin on 2016/11/26.
+ * Created by hyczlf on 2016/11/26.
  */
 
 public class StringFormatUtil {

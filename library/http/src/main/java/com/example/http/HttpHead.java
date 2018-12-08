@@ -8,7 +8,7 @@ import android.telephony.TelephonyManager;
 import java.util.UUID;
 
 /**
- * Created by jingbin on 2017/2/14.
+ * Created by hyczlf on 2017/2/14.
  */
 
 class HttpHead {

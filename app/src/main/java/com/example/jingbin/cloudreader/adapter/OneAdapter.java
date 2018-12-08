@@ -16,7 +16,7 @@ import com.nineoldandroids.view.ViewHelper;
 import com.nineoldandroids.view.ViewPropertyAnimator;
 
 /**
- * Created by jingbin on 2016/11/25.
+ * Created by hyczlf on 2016/11/25.
  */
 
 public class OneAdapter extends BaseRecyclerViewAdapter<SubjectsBean> {

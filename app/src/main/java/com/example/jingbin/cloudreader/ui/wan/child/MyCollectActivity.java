@@ -17,7 +17,7 @@ import java.util.ArrayList;
 /**
  * 玩安卓收藏
  *
- * @author jingbin
+ * @author hyczlf
  */
 public class MyCollectActivity extends BaseActivity<ActivityMyCollectBinding> {
 

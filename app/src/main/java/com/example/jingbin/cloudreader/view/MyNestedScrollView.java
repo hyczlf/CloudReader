@@ -5,7 +5,7 @@ import android.support.v4.widget.NestedScrollView;
 import android.util.AttributeSet;
 
 /**
- * Created by jingbin on 2016/12/6.
+ * Created by hyczlf on 2016/12/6.
  * 系统的滚动监听只能api23以上用，这为了兼容
  */
 

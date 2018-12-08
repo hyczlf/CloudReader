@@ -36,7 +36,7 @@ import uk.co.senab.photoview.PhotoViewAttacher;
 /**
  * 用于查看大图
  *
- * @author jingbin
+ * @author hyczlf
  */
 public class ViewBigImageActivity extends FragmentActivity implements OnPageChangeListener, PhotoViewAttacher.OnPhotoTapListener {
 

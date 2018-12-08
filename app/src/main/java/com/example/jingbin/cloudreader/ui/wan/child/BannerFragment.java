@@ -32,7 +32,7 @@ import java.util.List;
 /**
  * 玩安卓首页
  *
- * @author jingbin
+ * @author hyczlf
  *         Updated on 18/02/07...18/12/05
  */
 public class BannerFragment extends BaseFragment<FragmentWanAndroidBinding> {

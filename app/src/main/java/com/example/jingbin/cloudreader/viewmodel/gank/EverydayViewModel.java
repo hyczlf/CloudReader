@@ -18,7 +18,7 @@ import java.util.List;
 import rx.Subscription;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2017/12/15
  */
 public class EverydayViewModel extends ViewModel {

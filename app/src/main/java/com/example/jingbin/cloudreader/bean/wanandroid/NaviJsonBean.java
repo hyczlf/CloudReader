@@ -3,7 +3,7 @@ package com.example.jingbin.cloudreader.bean.wanandroid;
 import java.util.List;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/10/8
  * @description 导航数据
  */

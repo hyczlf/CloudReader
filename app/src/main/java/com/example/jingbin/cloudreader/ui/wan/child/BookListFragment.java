@@ -26,7 +26,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
 /**
- * @author jingbin
+ * @author hyczlf
  *         Updated by jingbin on 18/02/07.
  */
 public class BookListFragment extends BaseFragment<FragmentWanAndroidBinding> {

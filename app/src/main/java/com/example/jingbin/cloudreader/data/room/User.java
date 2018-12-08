@@ -6,7 +6,7 @@ import android.arch.persistence.room.PrimaryKey;
 import android.support.annotation.NonNull;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @date 2017/12/30
  * @description 注意：1、建值如果为 String id; 使用getWid(),则会报错！！！
  * 2、有一个key就要有对应的get和set

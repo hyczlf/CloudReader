@@ -11,7 +11,7 @@ import com.example.jingbin.cloudreader.bean.moviechild.RatingBean;
 import java.util.List;
 
 /**
- * Created by jingbin on 2016/12/9.
+ * Created by hyczlf on 2016/12/9.
  */
 
 public class MovieDetailBean extends BaseObservable {

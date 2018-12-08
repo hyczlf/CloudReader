@@ -9,7 +9,7 @@ import android.text.TextUtils;
 import java.util.ArrayList;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/7/18
  * @Description 权限处理
  * // 存储权限

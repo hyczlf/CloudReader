@@ -13,7 +13,7 @@ import com.example.jingbin.cloudreader.view.webview.WebViewActivity;
 
 
 /**
- * Created by jingbin on 2016/11/17.
+ * Created by hyczlf on 2016/11/17.
  * 监听网页链接:
  * - 优酷视频直接跳到自带浏览器
  * - 根据标识:打电话、发短信、发邮件

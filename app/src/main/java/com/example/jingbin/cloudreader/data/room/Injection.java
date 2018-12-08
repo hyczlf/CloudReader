@@ -3,7 +3,7 @@ package com.example.jingbin.cloudreader.data.room;
 import com.example.jingbin.cloudreader.utils.AppExecutors;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/4/19
  * @Description
  */

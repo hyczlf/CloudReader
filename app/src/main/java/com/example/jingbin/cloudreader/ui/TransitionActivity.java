@@ -17,7 +17,7 @@ import com.example.jingbin.cloudreader.utils.PerfectClickListener;
 import java.lang.ref.WeakReference;
 
 /**
- * @author jingbin
+ * @author hyczlf
  */
 public class TransitionActivity extends AppCompatActivity {
 

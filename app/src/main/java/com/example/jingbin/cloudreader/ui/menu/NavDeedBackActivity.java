@@ -20,7 +20,7 @@ import com.example.jingbin.cloudreader.view.webview.WebViewActivity;
 import java.util.List;
 
 /**
- * @author jingbin
+ * @author hyczlf
  */
 public class NavDeedBackActivity extends BaseActivity<ActivityNavDeedBackBinding> {
 

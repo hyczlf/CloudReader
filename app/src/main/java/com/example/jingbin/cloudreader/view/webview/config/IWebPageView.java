@@ -3,7 +3,7 @@ package com.example.jingbin.cloudreader.view.webview.config;
 import android.view.View;
 
 /**
- * Created by jingbin on 2016/11/17.
+ * Created by hyczlf on 2016/11/17.
  */
 public interface IWebPageView {
 

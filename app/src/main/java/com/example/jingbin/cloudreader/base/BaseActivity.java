@@ -25,7 +25,7 @@ import rx.Subscription;
 import rx.subscriptions.CompositeSubscription;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @date 16/12/10
  */
 public abstract class BaseActivity<SV extends ViewDataBinding> extends AppCompatActivity {

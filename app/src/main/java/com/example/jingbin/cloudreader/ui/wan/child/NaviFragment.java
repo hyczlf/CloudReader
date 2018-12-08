@@ -25,7 +25,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @date 2018/10/8.
  * @description 导航数据
  */

@@ -4,7 +4,7 @@ import com.example.jingbin.cloudreader.R;
 
 /**
  * 固定图片链接
- * Created by jingbin on 2018/10/21.
+ * Created by hyczlf on 2018/10/21.
  */
 
 public class ConstantsImageUrl {

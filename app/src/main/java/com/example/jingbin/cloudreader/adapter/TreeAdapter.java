@@ -19,7 +19,7 @@ import com.zhy.view.flowlayout.TagFlowLayout;
 import java.util.List;
 
 /**
- * Created by jingbin on 2018/09/15.
+ * Created by hyczlf on 2018/09/15.
  */
 
 public class TreeAdapter extends BaseRecyclerViewAdapter<TreeBean.DataBean> {

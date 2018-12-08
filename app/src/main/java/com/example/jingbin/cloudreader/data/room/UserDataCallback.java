@@ -1,7 +1,7 @@
 package com.example.jingbin.cloudreader.data.room;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/4/19
  * @Description
  */

@@ -22,7 +22,7 @@ import rx.Subscription;
 import rx.functions.Action1;
 
 /**
- * Created by jingbin on 16/11/21.
+ * Created by hyczlf on 16/11/21.
  * 展示干货的页面
  */
 public class GankFragment extends BaseFragment<FragmentGankBinding> {

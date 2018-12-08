@@ -10,7 +10,7 @@ import java.util.List;
 import rx.Subscription;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/2/8
  * @Description 玩安卓ViewModel
  */

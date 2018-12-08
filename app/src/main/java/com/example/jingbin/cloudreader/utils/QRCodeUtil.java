@@ -23,7 +23,7 @@ import java.util.Map;
 
 
 /**
- * Created by jingbin on 16/9/20.
+ * Created by hyczlf on 16/9/20.
  */
 public class QRCodeUtil {
     /**

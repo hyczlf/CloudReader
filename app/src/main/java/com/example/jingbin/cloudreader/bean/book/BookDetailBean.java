@@ -11,7 +11,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * Created by jingbin on 2016/12/25.
+ * Created by hyczlf on 2016/12/25.
  */
 
 public class BookDetailBean extends BaseObservable implements Serializable{

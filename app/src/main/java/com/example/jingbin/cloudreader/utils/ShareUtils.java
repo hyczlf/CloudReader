@@ -7,7 +7,7 @@ import android.net.Uri;
 import com.example.jingbin.cloudreader.R;
 
 /**
- * Created by jingbin on 2016/12/28.
+ * Created by hyczlf on 2016/12/28.
  */
 
 public class ShareUtils {

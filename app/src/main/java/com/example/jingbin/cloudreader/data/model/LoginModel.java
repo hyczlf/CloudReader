@@ -11,7 +11,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
 /**
- * Created by jingbin on 2018/11/8.
+ * Created by hyczlf on 2018/11/8.
  * 登出的model
  */
 

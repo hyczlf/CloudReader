@@ -7,7 +7,7 @@ import android.view.ViewConfiguration;
 import android.widget.ScrollView;
 
 /**
- * Created by jingbin on 2016/11/30.
+ * Created by hyczlf on 2016/11/30.
  */
 
 public class MyScrollview extends ScrollView {

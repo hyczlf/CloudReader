@@ -10,7 +10,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/5/10
  * @Description
  */

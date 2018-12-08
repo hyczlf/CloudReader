@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.ViewGroup;
 
 /**
- * Created by jingbin on 2016/11/25
+ * Created by hyczlf on 2016/11/25
  */
 public abstract class BaseRecyclerViewHolder<T, D extends ViewDataBinding> extends RecyclerView.ViewHolder {
 

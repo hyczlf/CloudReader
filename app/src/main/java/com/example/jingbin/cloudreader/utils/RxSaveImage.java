@@ -43,7 +43,7 @@ import rx.schedulers.Schedulers;
 /**
  * 保存图片，重复插入图片提示已存在
  *
- * @author jingbin
+ * @author hyczlf
  */
 public class RxSaveImage {
 

@@ -1,7 +1,7 @@
 package com.example.jingbin.cloudreader.bean.wanandroid;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/10/8
  * @description 完安卓item bean
  */

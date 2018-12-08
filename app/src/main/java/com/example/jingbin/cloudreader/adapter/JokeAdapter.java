@@ -13,7 +13,7 @@ import com.example.jingbin.cloudreader.utils.DialogBuild;
 import com.example.jingbin.cloudreader.utils.TimeUtil;
 
 /**
- * Created by jingbin on 2016/11/25.
+ * Created by hyczlf on 2016/11/25.
  */
 
 public class JokeAdapter extends BaseRecyclerViewAdapter<DuanZiBean> {

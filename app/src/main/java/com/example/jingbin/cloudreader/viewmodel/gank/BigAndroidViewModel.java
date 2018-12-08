@@ -10,7 +10,7 @@ import com.example.jingbin.cloudreader.http.RequestImpl;
 import rx.Subscription;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/1/16
  * @Description 大安卓ViewModel
  */

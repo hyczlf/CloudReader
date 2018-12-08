@@ -13,7 +13,7 @@ import com.example.jingbin.cloudreader.utils.ImageLoadUtil;
 import com.example.jingbin.cloudreader.view.webview.WebViewActivity;
 
 /**
- * Created by jingbin on 2016/12/2.
+ * Created by hyczlf on 2016/12/2.
  */
 
 public class GankAndroidAdapter extends BaseRecyclerViewAdapter<GankIoDataBean.ResultBean> {

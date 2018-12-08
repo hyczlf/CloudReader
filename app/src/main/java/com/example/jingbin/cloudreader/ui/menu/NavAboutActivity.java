@@ -17,7 +17,7 @@ import com.example.jingbin.cloudreader.utils.UpdateUtil;
 import com.example.jingbin.cloudreader.view.webview.WebViewActivity;
 
 /**
- * @author jingbin
+ * @author hyczlf
  */
 public class NavAboutActivity extends BaseActivity<ActivityNavAboutBinding> {
 

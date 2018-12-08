@@ -32,7 +32,7 @@ import com.example.jingbin.cloudreader.view.webview.WebViewActivity;
 import java.util.List;
 
 /**
- * Created by jingbin on 2016/12/27.
+ * Created by hyczlf on 2016/12/27.
  */
 
 public class EverydayAdapter extends BaseRecyclerViewAdapter<List<AndroidBean>> {

@@ -10,7 +10,7 @@ import com.example.jingbin.cloudreader.app.CloudReaderApplication;
 
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @date 2018/4/20
  * @description you've changed schema but forgot to update the version number
  * 改变数据库结构要改变版本号,不然会抛异常！

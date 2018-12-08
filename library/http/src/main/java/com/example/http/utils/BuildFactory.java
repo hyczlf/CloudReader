@@ -10,7 +10,7 @@ import static com.example.http.HttpUtils.API_TING;
 import static com.example.http.HttpUtils.API_WAN_ANDROID;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/2/9
  * @Description
  */

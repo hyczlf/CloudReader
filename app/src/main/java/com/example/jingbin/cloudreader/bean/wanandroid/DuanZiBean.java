@@ -6,7 +6,7 @@ import android.databinding.Bindable;
 import com.example.jingbin.cloudreader.BR;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/2/9
  * @Description 段子Bean
  */

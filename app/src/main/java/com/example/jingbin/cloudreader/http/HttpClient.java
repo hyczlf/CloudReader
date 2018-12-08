@@ -27,7 +27,7 @@ import retrofit2.http.Query;
 import rx.Observable;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @date 16/11/21
  * 网络请求类（一个接口一个方法）
  */

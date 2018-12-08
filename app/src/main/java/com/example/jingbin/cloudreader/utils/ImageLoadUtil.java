@@ -10,7 +10,7 @@ import com.example.jingbin.cloudreader.R;
 import jp.wasabeef.glide.transformations.BlurTransformation;
 
 /**
- * Created by jingbin on 2016/11/26.
+ * Created by hyczlf on 2016/11/26.
  */
 
 public class ImageLoadUtil {

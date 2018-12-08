@@ -21,7 +21,7 @@ import java.util.List;
 import javax.xml.transform.Templates;
 
 /**
- * Created by jingbin on 2016/11/25.
+ * Created by hyczlf on 2016/11/25.
  */
 
 public class WanBookAdapter extends BaseRecyclerViewAdapter<BooksBean> {

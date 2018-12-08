@@ -18,7 +18,7 @@ import rx.functions.Func1;
 import rx.schedulers.Schedulers;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/2/9
  * @Description
  */

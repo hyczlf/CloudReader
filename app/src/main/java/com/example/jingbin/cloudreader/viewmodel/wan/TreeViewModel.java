@@ -13,7 +13,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/12/3
  * @Description wanandroid知识体系的ViewModel
  */

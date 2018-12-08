@@ -17,7 +17,7 @@ import com.example.jingbin.cloudreader.viewmodel.movie.OnMovieLoadListener;
 import com.example.xrecyclerview.XRecyclerView;
 
 /**
- * Created by jingbin on 16/12/10.
+ * Created by hyczlf on 16/12/10.
  * Updated by jingbin on 17/12/26.
  */
 public class DoubanTopActivity extends BaseActivity<ActivityDoubanTopBinding> implements OnMovieLoadListener {

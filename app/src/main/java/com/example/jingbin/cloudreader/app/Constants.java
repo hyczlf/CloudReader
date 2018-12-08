@@ -1,7 +1,7 @@
 package com.example.jingbin.cloudreader.app;
 
 /**
- * Created by jingbin on 2016/11/26.
+ * Created by hyczlf on 2016/11/26.
  * 固定参数
  */
 

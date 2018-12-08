@@ -18,7 +18,7 @@ import java.util.List;
 
 
 /**
- * Created by jingbin on 16/11/29.
+ * Created by hyczlf on 16/11/29.
  * <p>
  * 布局记得删掉
  * R.layout.header_layout  原来的图片头部布局

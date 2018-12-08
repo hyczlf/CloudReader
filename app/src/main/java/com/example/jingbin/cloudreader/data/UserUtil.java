@@ -11,7 +11,7 @@ import com.example.jingbin.cloudreader.utils.SPUtils;
 import com.example.jingbin.cloudreader.utils.ToastUtil;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/5/7
  * @Description 处理用户登录问题
  */

@@ -12,7 +12,7 @@ import rx.Subscription;
 /**
  * 干货订制页面ViewModel
  *
- * @author jingbin
+ * @author hyczlf
  * @data 2018/1/18
  * //        viewModel = ViewModelProviders.of(this).get(CustomViewModel.class);
  * //        viewModel.getUser().observe(this, gankIoDataBean -> {

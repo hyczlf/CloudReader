@@ -10,7 +10,7 @@ import com.example.jingbin.cloudreader.app.CloudReaderApplication;
 import me.drakeet.support.toast.ToastCompat;
 
 /**
- * Created by jingbin on 2016/12/14.
+ * Created by hyczlf on 2016/12/14.
  * 单例Toast
  * An Android library to hook and fix Toast BadTokenException
  */

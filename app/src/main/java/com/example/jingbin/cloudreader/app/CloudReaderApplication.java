@@ -9,7 +9,7 @@ import com.example.jingbin.cloudreader.utils.DebugUtil;
 import com.tencent.bugly.crashreport.CrashReport;
 
 /**
- * Created by jingbin on 2016/11/22.
+ * Created by hyczlf on 2016/11/22.
  */
 
 public class CloudReaderApplication extends MultiDexApplication{

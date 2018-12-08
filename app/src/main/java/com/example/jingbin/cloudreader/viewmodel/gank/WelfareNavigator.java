@@ -3,7 +3,7 @@ package com.example.jingbin.cloudreader.viewmodel.gank;
 import java.util.ArrayList;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/1/17
  * @Description
  */

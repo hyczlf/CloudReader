@@ -55,9 +55,7 @@ import rx.subscriptions.CompositeSubscription;
 
 
 /**
- * Created by jingbin on 16/11/21.
- * Link to:https://github.com/youlookwhat/CloudReader
- * Contact me:http://www.jianshu.com/u/e43c6e979831
+ * Created by hyczlf on 16/11/21.
  */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener, ViewPager.OnPageChangeListener {
 

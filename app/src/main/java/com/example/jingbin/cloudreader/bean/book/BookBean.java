@@ -10,7 +10,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * Created by jingbin on 2016/12/15.
+ * Created by hyczlf on 2016/12/15.
  */
 
 public class BookBean extends BaseObservable implements Serializable{

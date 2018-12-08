@@ -8,7 +8,7 @@ import com.example.jingbin.cloudreader.R;
 import com.youth.banner.loader.ImageLoader;
 
 /**
- * Created by jingbin on 2016/11/30.
+ * Created by hyczlf on 2016/11/30.
  * 首页轮播图
  */
 

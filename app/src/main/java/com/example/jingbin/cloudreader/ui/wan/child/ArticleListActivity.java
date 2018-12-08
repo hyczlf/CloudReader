@@ -20,7 +20,7 @@ import com.example.xrecyclerview.XRecyclerView;
 /**
  * 玩安卓分类文章列表、我的收藏文章列表
  *
- * @author jingbin
+ * @author hyczlf
  */
 public class ArticleListActivity extends BaseActivity<FragmentWanAndroidBinding> {
 

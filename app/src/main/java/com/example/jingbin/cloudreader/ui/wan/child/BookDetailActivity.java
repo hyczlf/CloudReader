@@ -24,7 +24,7 @@ import rx.schedulers.Schedulers;
 
 /**
  * 书籍详情
- * @author jingbin
+ * @author hyczlf
  */
 public class BookDetailActivity extends BaseHeaderActivity<HeaderBookDetailBinding, ActivityBookDetailBinding> {
 

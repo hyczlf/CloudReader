@@ -22,7 +22,7 @@ import java.util.Random;
 import rx.Subscription;
 
 /**
- * @author jingbin
+ * @author hyczlf
  *         Updated by jingbin on 18/04/19.
  */
 public class JokeFragment extends BaseFragment<FragmentWanAndroidBinding> implements WanNavigator.JokeNavigator {

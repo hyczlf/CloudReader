@@ -10,7 +10,7 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
 /**
- * Created by jingbin on 2017/1/17.
+ * Created by hyczlf on 2017/1/17.
  * 分类数据: http://gank.io/api/data/数据类型/请求个数/第几页  的Model
  * 好处之一是请求数据接口可以统一，不用每个地方都写请求的接口，更换接口方便。
  * 其实代码量也没有减少多少，但维护起来方便。

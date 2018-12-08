@@ -3,7 +3,7 @@ package com.example.jingbin.cloudreader.base;
 import android.arch.lifecycle.ViewModel;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/5/12
  * @Description 有列表的页面
  */

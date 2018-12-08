@@ -17,7 +17,7 @@ import rx.functions.Func1;
 import rx.schedulers.Schedulers;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/1/17
  * @Description 福利页面ViewModel
  */

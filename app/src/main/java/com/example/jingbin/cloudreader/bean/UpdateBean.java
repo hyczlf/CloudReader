@@ -1,7 +1,7 @@
 package com.example.jingbin.cloudreader.bean;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/2/8
  * @Description
  */

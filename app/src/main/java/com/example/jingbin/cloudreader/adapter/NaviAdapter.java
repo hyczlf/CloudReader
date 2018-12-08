@@ -12,7 +12,7 @@ import com.example.jingbin.cloudreader.databinding.ItemNaviBinding;
 import java.util.List;
 
 /**
- * Created by jingbin on 2018/10/13.
+ * Created by hyczlf on 2018/10/13.
  */
 
 public class NaviAdapter extends BaseRecyclerViewAdapter<NaviJsonBean.DataBean> {

@@ -10,7 +10,7 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
- * Created by jingbin on 2016/11/25.
+ * Created by hyczlf on 2016/11/25.
  * 豆瓣热映item详情
  */
 

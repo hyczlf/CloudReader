@@ -25,7 +25,7 @@ import com.zhy.view.flowlayout.TagFlowLayout;
 import java.util.List;
 
 /**
- * Created by jingbin on 2018/10/13.
+ * Created by hyczlf on 2018/10/13.
  */
 
 public class NaviContentAdapter extends BaseRecyclerViewAdapter<NaviJsonBean.DataBean> {

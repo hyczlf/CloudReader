@@ -3,7 +3,7 @@ package com.example.jingbin.cloudreader.viewmodel.movie;
 import com.example.jingbin.cloudreader.bean.moviechild.SubjectsBean;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2017/12/19
  * @Description
  */

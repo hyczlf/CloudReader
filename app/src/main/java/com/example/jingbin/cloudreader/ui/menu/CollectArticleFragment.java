@@ -18,7 +18,7 @@ import com.example.jingbin.cloudreader.viewmodel.wan.ArticleListViewModel;
 import com.example.xrecyclerview.XRecyclerView;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @date 2018/09/27.
  * @description 文章
  */

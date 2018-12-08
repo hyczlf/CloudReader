@@ -19,7 +19,7 @@ import com.example.jingbin.cloudreader.utils.DebugUtil;
 import com.example.jingbin.cloudreader.viewmodel.wan.TreeViewModel;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @date 2018/09/15.
  * @description 知识体系
  */

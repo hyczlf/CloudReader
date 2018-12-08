@@ -14,7 +14,7 @@ import com.example.jingbin.cloudreader.viewmodel.menu.LoginViewModel;
 /**
  * 玩安卓登录
  *
- * @author jingbin
+ * @author hyczlf
  */
 public class LoginActivity extends BaseActivity<ActivityLoginBinding> {
 

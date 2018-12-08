@@ -45,7 +45,7 @@ import rx.subscriptions.CompositeSubscription;
 
 
 /**
- * Created by jingbin on 16/12/12.
+ * Created by hyczlf on 16/12/12.
  * 电影
  * 书籍等详情页
  * 根布局：fitsSystemWindows 惹的祸

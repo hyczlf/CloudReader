@@ -5,7 +5,7 @@ import android.databinding.BaseObservable;
 import java.util.List;
 
 /**
- * @author jingbin
+ * @author hyczlf
  * @data 2018/2/9
  * @Description
  */

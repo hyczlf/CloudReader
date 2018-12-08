@@ -21,7 +21,7 @@ import rx.Subscription;
 /**
  * 福利
  *
- * @author jingbin
+ * @author hyczlf
  */
 public class WelfareFragment extends BaseFragment<FragmentWelfareBinding> implements WelfareNavigator {
 

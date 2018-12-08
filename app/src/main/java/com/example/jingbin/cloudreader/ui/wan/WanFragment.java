@@ -16,7 +16,7 @@ import com.example.jingbin.cloudreader.view.MyFragmentPagerAdapter;
 import java.util.ArrayList;
 
 /**
- * Created by jingbin on 16/12/14.
+ * Created by hyczlf on 16/12/14.
  * 展示玩安卓的页面
  */
 public class WanFragment extends BaseFragment<FragmentBookBinding> {

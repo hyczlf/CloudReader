@@ -23,7 +23,7 @@ import rx.Subscription;
 import static com.example.jingbin.cloudreader.app.Constants.GANK_CALA;
 
 /**
- * @author jingbin
+ * @author hyczlf
  */
 public class CustomFragment extends BaseFragment<FragmentCustomBinding> implements CustomNavigator {
 

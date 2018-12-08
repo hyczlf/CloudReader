@@ -18,7 +18,7 @@ import com.example.jingbin.cloudreader.view.webview.WebViewActivity;
 import com.example.jingbin.cloudreader.viewmodel.wan.WanNavigator;
 
 /**
- * Created by jingbin on 2016/11/25.
+ * Created by hyczlf on 2016/11/25.
  */
 
 public class CollectUrlAdapter extends BaseRecyclerViewAdapter<CollectUrlBean.DataBean> {

@@ -9,7 +9,7 @@ import com.example.jingbin.cloudreader.BR;
 import java.io.Serializable;
 
 /**
- * Created by jingbin on 2016/11/25.
+ * Created by hyczlf on 2016/11/25.
  */
 
 public class ImagesBean extends BaseObservable implements Serializable{

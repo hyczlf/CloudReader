@@ -22,7 +22,7 @@ import rx.functions.Func1;
 import rx.schedulers.Schedulers;
 
 /**
- * Created by jingbin on 2016/12/1.
+ * Created by hyczlf on 2016/12/1.
  * 每日推荐model
  */
 public class EverydayModel {

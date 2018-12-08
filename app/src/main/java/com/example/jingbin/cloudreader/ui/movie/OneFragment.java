@@ -21,7 +21,7 @@ import com.example.jingbin.cloudreader.utils.TimeUtil;
 import com.example.jingbin.cloudreader.viewmodel.movie.OneViewModel;
 
 /**
- * @author jingbin
+ * @author hyczlf
  */
 public class OneFragment extends BaseFragment<FragmentOneBinding> {
 

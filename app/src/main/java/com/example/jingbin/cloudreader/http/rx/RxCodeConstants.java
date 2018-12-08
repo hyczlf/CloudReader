@@ -1,7 +1,7 @@
 package com.example.jingbin.cloudreader.http.rx;
 
 /**
- * Created by jingbin on 2016/12/2.
+ * Created by hyczlf on 2016/12/2.
  */
 
 public class RxCodeConstants {

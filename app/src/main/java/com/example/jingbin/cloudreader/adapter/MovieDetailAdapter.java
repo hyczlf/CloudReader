@@ -13,7 +13,7 @@ import com.example.jingbin.cloudreader.utils.PerfectClickListener;
 import com.example.jingbin.cloudreader.view.webview.WebViewActivity;
 
 /**
- * Created by jingbin on 2016/12/10.
+ * Created by hyczlf on 2016/12/10.
  */
 
 public class MovieDetailAdapter extends BaseRecyclerViewAdapter<PersonBean> {

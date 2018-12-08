@@ -8,7 +8,7 @@ import com.example.jingbin.cloudreader.base.baseadapter.BaseRecyclerViewHolder;
 import com.example.jingbin.cloudreader.databinding.ItemListBinding;
 
 /**
- * Created by jingbin on 2016/11/30.
+ * Created by hyczlf on 2016/11/30.
  */
 
 public class Adapter extends BaseRecyclerViewAdapter<String> {

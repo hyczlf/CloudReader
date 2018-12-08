@@ -16,7 +16,7 @@ import com.example.jingbin.cloudreader.utils.DialogBuild;
 import com.example.jingbin.cloudreader.utils.PerfectClickListener;
 
 /**
- * Created by jingbin on 2016/12/10.
+ * Created by hyczlf on 2016/12/10.
  */
 
 public class DouBanTopAdapter extends BaseRecyclerViewAdapter<SubjectsBean> {
